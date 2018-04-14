@@ -11,3 +11,12 @@ Next year, DonorsChoose.org expects to receive close to 500,000 project proposal
 The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
 
 With an algorithm to pre-screen applications, DonorsChoose.org can auto-approve some applications quickly so that volunteers can spend their time on more nuanced and detailed project vetting processes, including doing more to help teachers develop projects that qualify for specific funding opportunities.
+
+### Instalação
+Este projeto requer **Python 3.5** e as seguintes bibliotecas Python instaladas:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+Você também precisará ter software instalado para rodar e executar um [iPython Notebook](http://ipython.org/notebook.html)
